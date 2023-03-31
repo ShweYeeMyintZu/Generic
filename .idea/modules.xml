@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/GenericTester/GenericTester.iml" filepath="$PROJECT_DIR$/GenericTester/GenericTester.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic.iml" filepath="$PROJECT_DIR$/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/genericTesterone/genericTesterone.iml" filepath="$PROJECT_DIR$/genericTesterone/genericTesterone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genericTestthree/genericTestthree.iml" filepath="$PROJECT_DIR$/genericTestthree/genericTestthree.iml" />
       <module fileurl="file://$PROJECT_DIR$/genericTesttwo/genericTesttwo.iml" filepath="$PROJECT_DIR$/genericTesttwo/genericTesttwo.iml" />
     </modules>
   </component>
