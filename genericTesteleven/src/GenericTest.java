@@ -17,11 +17,21 @@ public class GenericTest {
 
         Iterator<Integer> integerIterator=integerMap.keySet().iterator();
         while(integerIterator.hasNext()){
-            System.out.println("Integer value :: "+integerIterator.next());
+            System.out.println("Integer key value :: "+integerIterator.next());
         }
         Iterator<String> stringIterator=stringMap.keySet().iterator();
         while(stringIterator.hasNext()){
-            System.out.println("String Value :: "+stringIterator.next());
+            System.out.println("String key Value :: "+stringIterator.next());
+        }
+        System.out.println("---------------------------------------------");
+
+        Iterator<Integer> integerIteratorone=integerMap.values().iterator();
+        while(integerIteratorone.hasNext()){
+            System.out.println("Integer value :: "+integerIteratorone.next());
+        }
+        Iterator<String> stringIteratorone=stringMap.values().iterator();
+        while(stringIteratorone.hasNext()){
+            System.out.println("String Value :: "+stringIteratorone.next());
         }
 
     }
